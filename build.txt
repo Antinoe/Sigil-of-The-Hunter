@@ -1,0 +1,5 @@
+displayName = SigilOfTheHunter
+author = Antinous
+version = 1.0
+modReferences = MetroidMod
+homepage = https://github.com/Antinoe/SigilOfTheHunter

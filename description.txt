@@ -1,0 +1,8 @@
+An item meant to extend the potential of the Hunter class out to post-Moonlord.
+
+It is equipped in the Hand slot of the Suit Addon System, and cannot be equipped as an Accessory.
+
+Planned features:
+-Reworked sprites. The current aren't of quality. Just quick recolors of the Power Grip.
+-GIVE THE ITEM A BETTER DESCRIPTION.
+-More features other than "Equip this to become more powerful".
